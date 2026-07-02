@@ -62,6 +62,10 @@ ship-relight-guardian/
 ---
 ![Health Gate Logic](31eb5075-62f0-4e03-8479-2d35e8085394.png)
 Add system diagram to README
+---
+
+## System Diagram
+![Relight Health Gate Logic](31eb5075-62f0-4e03-8479-2d35e8085394.png)
 
 ## Author
 
