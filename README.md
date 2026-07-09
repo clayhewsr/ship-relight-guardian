@@ -187,6 +187,56 @@ Current Capabilities
 - [x] Mission simulation loop
 
 ---
+---
+
+# Project Objectives
+
+Ship Relight Guardian is being developed as a modular simulation platform for propulsion fault detection, recovery planning, and autonomous relight decision support.
+
+The project is designed to demonstrate engineering best practices by separating each major function into independent, reusable modules that can evolve over time.
+
+## Primary Objectives
+
+- Develop a reliable engine health monitoring framework.
+- Simulate propulsion system failures.
+- Evaluate engine recovery options using health scoring.
+- Assist operators with structured relight decisions.
+- Provide a foundation for future AI-assisted diagnostics.
+- Create a reusable architecture for simulation and visualization.
+
+---
+
+# Engineering Principles
+
+The project follows several core engineering principles:
+
+- **Modularity** – Each subsystem has a clearly defined responsibility.
+- **Scalability** – New simulation modules can be added without redesigning the system.
+- **Transparency** – Decision logic is understandable and traceable.
+- **Maintainability** – Code is organized for long-term development.
+- **Safety** – Decisions are based on system state rather than assumptions.
+
+---
+
+# Long-Term Vision
+
+The long-term vision is to evolve Ship Relight Guardian into a comprehensive propulsion systems simulation environment featuring:
+
+- Interactive dashboards
+- Digital twin concepts
+- Predictive health monitoring
+- AI-assisted recommendations
+- Scenario playback and mission replay
+- Expandable plugin architecture
+- Support for additional vehicle and propulsion configurations
+
+---
+
+# Repository Status
+
+**Status:** Active Development
+
+The repository is continuously evolving as new simulation capabilities, visualization tools, and software architecture improvements are added.
 
 ## Phase 2 — Visualization 🚧
 
