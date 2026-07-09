@@ -172,6 +172,85 @@ Current Capabilities
 - GitHub hosted development
 
 ---
+---
+
+# Development Roadmap
+
+## Phase 1 — Foundation ✅
+
+- [x] Create GitHub repository
+- [x] Professional project documentation
+- [x] Modular project architecture
+- [x] Core simulation framework
+- [x] Engine health scoring
+- [x] Autonomous relight decision logic
+- [x] Mission simulation loop
+
+---
+
+## Phase 2 — Visualization 🚧
+
+- [ ] Live engine status dashboard
+- [ ] Green / Yellow / Red engine indicators
+- [ ] Mission timeline
+- [ ] Interactive control panel
+- [ ] Engine health gauges
+- [ ] Mission event log
+
+---
+
+## Phase 3 — Advanced Simulation
+
+- [ ] Multiple engine-out scenarios
+- [ ] Weather effects
+- [ ] Fuel system failures
+- [ ] Sensor failures
+- [ ] Electrical failures
+- [ ] Hydraulic failures
+- [ ] Recovery scenarios
+
+---
+
+## Phase 4 — Intelligent Decision Support
+
+- [ ] AI-assisted diagnostics
+- [ ] Failure prediction
+- [ ] Maintenance recommendations
+- [ ] Risk assessment
+- [ ] Mission success probability
+- [ ] Recovery optimization
+
+---
+
+## Phase 5 — Future Expansion
+
+- [ ] Web dashboard
+- [ ] Mobile monitoring
+- [ ] Fleet management
+- [ ] Historical mission replay
+- [ ] Data analytics
+- [ ] API integration
+- [ ] Digital twin support
+
+---
+
+# Current Development Status
+
+**Project Status:** Active Development
+
+### Completed
+
+- Professional GitHub repository
+- Modular Python architecture
+- Engine simulation framework
+- Health scoring system
+- Decision engine
+- Relight authorization logic
+- Mission simulation
+
+### Current Focus
+
+Building a professional simulation platform capable of demonstrating autonomous propulsion recovery through modular software architecture and visualization.
 
 # License
 
