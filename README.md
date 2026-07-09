@@ -48,6 +48,99 @@ ship-relight-guardian/
 ```
 
 ---
+---
+
+# How to Run
+
+## Requirements
+
+- Python 3.10 or newer
+- Git
+- pip
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/clayhewsr/ship-relight-guardian.git
+cd ship-relight-guardian
+```
+
+## Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+## Run the Simulation
+
+```bash
+python main.py
+```
+
+or, if using the modular simulation:
+
+```bash
+python -m src.simulation.run_simulation
+```
+
+---
+
+# Example Simulation Output
+
+```text
+STEP 1
+
+Engine A : FAILURE
+Engine B : FAILURE
+Engine C : GOOD
+Engine D : WARNING
+Engine E : GOOD
+Engine F : GOOD
+
+Decision: PASS
+
+Selected Engine:
+Engine E
+
+MISSION COMPLETE
+
+SYSTEM STABLE
+```
+
+---
+
+# Repository Goals
+
+The Ship Relight Guardian project is focused on demonstrating a modular engineering approach to propulsion recovery simulations.
+
+Current areas of development include:
+
+- Engine health monitoring
+- Failure detection
+- Intelligent scoring
+- Relight authorization
+- Mission-state management
+- Expandable simulation framework
+- Future visualization dashboard
+
+---
+
+# Technologies
+
+- Python
+- GitHub
+- Modular Software Architecture
+- Simulation Modeling
+- Fault-Tolerant Design
+- Engineering Decision Logic
+
+---
+
+# Current Project Status
+
+🟢 Active Development
+
+The project is under continuous development with new simulation capabilities, visualization tools, and engineering modules being added as the architecture evolves.
 
 # Module Responsibilities
 
