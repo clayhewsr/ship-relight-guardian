@@ -51,7 +51,54 @@ ship-relight-guardian/
 ---
 
 # How to Run
+---
 
+# Project Status
+
+**Current Version:** Prototype v1
+
+## Completed
+
+- ✅ Modular project architecture
+- ✅ Engine simulation framework
+- ✅ Engine health scoring
+- ✅ Autonomous relight decision logic
+- ✅ Multi-step simulation loop
+- ✅ GitHub project structure
+- ✅ Initial documentation
+
+## In Progress
+
+- 🚧 Interactive mission dashboard
+- 🚧 Live engine status indicators
+- 🚧 Mission event logging
+- 🚧 Simulation visualization
+- 🚧 Expanded failure scenarios
+
+## Planned
+
+- Predictive engine health monitoring
+- AI-assisted diagnostics
+- Historical mission replay
+- Multi-vehicle simulation
+- Operator control panel
+- Digital twin integration
+- Plugin architecture for future expansion
+
+---
+
+# Contributing
+
+This repository is under active development.
+
+Suggestions, improvements, and engineering discussions are welcome as the project continues to evolve.
+
+---
+
+# License
+
+This project is currently intended for research, educational, and demonstration purposes.
+Future licensing may be updated as the platform matures.
 ## Requirements
 
 - Python 3.10 or newer
